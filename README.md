@@ -52,4 +52,29 @@ This repo is to show how to use Markdown
 
    # Links
    [My email](https://mail.google.com/mail/u/0/#inbox)
-   
+
+   # Image
+   ![]()
+
+   # Highlighting
+
+   '''
+   Print hello
+   '''
+
+   # Tables
+   |Name       | Faculty     |Departmen   |
+   |-----|-------|----------|
+   |Name| Faculty|Department|
+   |Abdul|Physical|Pure and industrial chemistry|
+
+   - [x] I am the one 
+   - [x] You are the one
+   - [] He was the one
+  
+# Horizontal lines
+---
+***
+---
+Abduljalal
+***
